@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: Medium;
+    src: url('../fonts/mazzard/MazzardH-Medium.ttf');
+}
+
+@font-face {
+    font-family: Regular;
+    src: url('../fonts/mazzard/MazzardH-Regular.ttf');
+}
